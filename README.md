@@ -1,16 +1,21 @@
 # image_recognition_demo
 
-A new Flutter project.
+A Flutter project for image recognition with [tflite]('https://pub.dev/packages/tflite') package.
 
-## Getting Started
+## Before Starting
 
-This project is a starting point for a Flutter application.
+Some version mismatch! Fix it!
 
-A few resources to get you started if this is your first Flutter project:
+> src level build.gradle file
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot 2022-07-28 201329](https://user-images.githubusercontent.com/31488481/181583734-446f15f1-dfe4-4b9c-a542-7e25ae95c89c.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> app level build.gradle file
+
+![Screenshot 2022-07-28 201402](https://user-images.githubusercontent.com/31488481/181583753-417be698-2fe6-4036-9efe-30bced87acd2.jpg)
+
+## Screenshots
+
+<img src="https://user-images.githubusercontent.com/31488481/181584179-038a7edf-6dd1-4c3a-ac03-5025e5209a01.jpg" alt="drawing" width="290"/>
+<img src="https://user-images.githubusercontent.com/31488481/181585300-6a6d1bb1-ce0b-4e69-b9aa-25990b3adefa.jpg" alt="drawing" width="290"/>
+<img src="https://user-images.githubusercontent.com/31488481/181585408-73a51588-a0b4-4828-860f-be11045c247d.jpg" alt="drawing" width="290"/>
